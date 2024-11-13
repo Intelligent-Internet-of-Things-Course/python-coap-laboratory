@@ -9,3 +9,8 @@ an IoT scenario where a CoAP client interacts with a CoAP Coffee Machine in orde
 - Make a custom Coffee (Short, Medium, Long) (PUT Request)
 
 The project use the Python Library AioCoAP that can be installed and imported through PyCharm or the pip install command.
+The version of the Aiocoap library used is 0.4.7 you can install it by running the following command:
+
+```bash
+pip install aiocoap==0.4.7
+```
